@@ -1,0 +1,5 @@
+npm-debug.log*
+.jshintrc
+node_modules/
+.idea/
+config.js
